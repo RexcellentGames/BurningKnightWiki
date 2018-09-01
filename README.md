@@ -1,0 +1,2 @@
+# BurningKnightWiki
+Burning Knight wiki
