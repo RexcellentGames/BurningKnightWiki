@@ -1,2 +1,3 @@
-# BurningKnightWiki
-Burning Knight wiki
+# Headline
+
+> An awesome project.
